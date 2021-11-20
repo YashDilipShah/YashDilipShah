@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YashDilipShah
-- 👀 I’m interested in Researching in Artificial Intelligence, specifically in autonomous driving. 
+- 👀 I’m interested in Researching in Artificial Intelligence, specifically in Natural Language Processing. 
 - 🌱 I’m currently learning Flask for end to end deployment of ML projects. 
 - 💞️ I’m looking to collaborate on Research and ML projects. 
 - 📫 How to reach me @yashshah3010@gmail.com
